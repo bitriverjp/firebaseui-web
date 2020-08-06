@@ -1,20 +1,20 @@
 {
-  "name": "firebaseui",
+  "name": "firebaseui-ja",
   "version": "4.6.1",
   "description": "Javascript library for customizable UI on top of Firebase SDK",
   "files": [
     "dist/firebaseui.js",
     "dist/firebaseui.css",
-    "dist/npm.js",
-    "dist/esm.js",
+    "dist/npm__ja.js",
+    "dist/esm__ja.js",
     "dist/index.d.ts",
     "dist/externs",
     "LICENSE",
     "README.md",
     "package.json"
   ],
-  "main": "./dist/npm.js",
-  "module": "./dist/esm.js",
+  "main": "./dist/npm__ja.js",
+  "module": "./dist/esm__ja.js",
   "types": "./dist/index.d.ts",
   "style": "dist/firebaseui.css",
   "scripts": {
