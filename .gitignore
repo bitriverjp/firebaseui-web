@@ -8,6 +8,8 @@ generated/
 out/
 !dist/esm__vi.js
 !dist/npm__vi.js
+!dist/firebaseui.css
+!dist/index.d.ts
 .firebase
 
 # Generated files.
